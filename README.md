@@ -49,3 +49,7 @@ The examples show the author's username, `chisa`. Wherever a command contains `<
 ## Author
 
 Chisaneme Aloni, technical writer. [Portfolio](https://alachi24-portfolio.netlify.app/) · [GitHub](https://github.com/Alachi24)
+
+## Feedback
+
+Found a mistake or something unclear? Open an issue on this repository.
